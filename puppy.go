@@ -1,5 +1,3 @@
-// Just added a comment
-
 package puppy
 
 import (
